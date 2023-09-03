@@ -1,15 +1,17 @@
 /* ====================== page two ====================== */
 
 .page.two{
+    height: fit-content;
     display: flex;
     justify-content: center;
     align-items:center;
     padding-left: 50px;
     padding-right: 50px;
     height: fit-content;
-    padding-bottom: 80px;
+    /* padding-bottom: 80px; */
     padding-top: 80px;
     padding-right: 50px;
+    
 }
 /* ========= left section ========= */
 
