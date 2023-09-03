@@ -1,4 +1,4 @@
-# :partying_face: :partying_face: **CODE CRAFT** :partying_face: :partying_face:
+# :partying_face: :partying_face: **CODE CRAFT** ( Organised by HackerSpace ) :partying_face: :partying_face:
 ![Logo](https://github.com/youtanimstar/hackerspace/blob/main/public/banner.jpeg)
 
 ## Website Link - [hackerspace](https://codecraft-hackerspace.netlify.app/).
