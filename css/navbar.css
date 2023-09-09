@@ -94,6 +94,23 @@ nav{
     display: none;
 }
 
+/* ====================== nav title responsive ====================== */
+.navTitle{
+    position: absolute;
+    top: 5px;
+    left: 20px;
+    color: var(--orange);
+}
+.navTitle img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.navTitle.active{
+    display: none;
+}
+
+
 
 /* ====================== navbar responsive ====================== */
 
